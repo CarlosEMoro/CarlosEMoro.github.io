@@ -20,4 +20,14 @@ Still on backlog
 ## Task list
 - [ ] Complete RM pilots tracking
 - [X] Open CHG and Confluence page
-- [ ] User release note creation
+- [ ] User release note creation assigned to @CarlosEMoro
+### Comments
+```groovy
+/* Stage shown bellow only for Release Management Tool integration at pipeline */
+    publish_release_management: [
+        environments: [
+            pre:[environment: 'PRE'],
+            pro:[environment: 'PRO']],
+        instances: ['GLOBAL']
+    ]
+```
