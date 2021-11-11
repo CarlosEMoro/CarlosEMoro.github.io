@@ -35,7 +35,7 @@ Still on backlog
 ```
 ## Useful links
 See [Product Office](https://github.com/santander-group/product-office)
+See also [Universe] https://www.youtube.com/watch?v=t7owQr243JY&t=4494s
 
-
-[^1]: References.
+[^1]: References
 [^2]: Articles 
