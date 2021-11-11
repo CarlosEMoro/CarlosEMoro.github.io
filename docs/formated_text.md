@@ -1,8 +1,8 @@
 # Index
 * [Content](#Content)
-  * [Work on](#Work on)
+  * [Work on](#Work-on)
   * [Pending](#Pending)
-  * [Task list](#Task list)
+  * [Task list](#Task-list)
 
 # Content
 ## Work on
