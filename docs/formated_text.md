@@ -3,6 +3,7 @@
   * [Work on](#Work-on)
   * [Pending](#Pending)
   * [Task list](#Task-list)
+  * [comments](#comments)
 
 # Content
 ## Work on
@@ -21,7 +22,7 @@ Still on backlog
 - [ ] Complete RM pilots tracking
 - [X] Open CHG and Confluence page
 - [ ] User release note creation assigned to @CarlosEMoro
-### Comments
+## Comments
 ```groovy
 /* Stage shown bellow only for Release Management Tool integration at pipeline */
     publish_release_management: [
@@ -31,3 +32,5 @@ Still on backlog
         instances: ['GLOBAL']
     ]
 ```
+## Useful links
+See https://github.com/santander-group/product-office
