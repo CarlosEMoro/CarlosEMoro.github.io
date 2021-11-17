@@ -12,7 +12,7 @@
   3. extension octotree
 ## Pending
 <head>
-<TABLE align='center' border-collapse='collapse' bordercolor='black' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
+<TABLE border-collapse='collapse' bordercolor='blue' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
 <center><table border='1'>
 <tr>
 <td colspan='2'><span style='color:#0B0B61'><center>PAIS</center></span></td>
@@ -26,7 +26,6 @@
 <td><span style='color:#ff0000'>PARIS</span></td>
 <td><span style='color:#ff0000'>VIENNA</span></td>
 </tr>
-</table></center>
  
 ## Task list
 Check-lists available
