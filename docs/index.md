@@ -7,9 +7,9 @@
 
 # Content
 ## Work on
-1. github pages
-2. editing 
-3. extension octotree
+  1. github pages
+  2. editing 
+  3. extension octotree
 ## Pending
 Tables can be included but with a non-frendly way of design 
 |issue|description|
@@ -34,8 +34,3 @@ It is possible to include Code blocks as follows:
 ```
 ## Useful links
 See [tutorial video](https://www.youtube.com/watch?v=VBKQIiTl8Bc&t=1s)
-
-See also [Universe](https://www.youtube.com/watch?v=t7owQr243JY&t=4494s)
-
-[^1]: References
-[^2]: Articles 
