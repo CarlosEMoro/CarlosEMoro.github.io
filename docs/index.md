@@ -12,17 +12,16 @@
   3. extension octotree
 ## Pending
 <head>
-<TABLE align='center' border-collapse='collapse' bordercolor='black' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE><title>CIUDADES Y PAISES</title>
+<TABLE align='center' border-collapse='collapse' bordercolor='black' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
 <\head>
-<tr bgcolor='#CC0000'>
-<enter><table border='1'>
-<td colspan='2'><span style='color:#FFFFFF'><center>PAIS</center></span></td>
-<td><span style='color:#FFFFFF'><center>ALEMANIA</center></span></td>
-<td><span style='color:#FFFFFF'><center>FRANCIA</center></span></td>
-<td><span style='color:#FFFFFF'><center>AUSTRIA</center></span></td>
+<center><table border='1'>
+<td colspan='2'><span style='color:#0B0B61'><center>PAIS</center></span></td>
+<td><span style='color:#0B0B61'><center>ALEMANIA</center></span></td>
+<td><span style='color:#0B0B61'><center>FRANCIA</center></span></td>
+<td><span style='color:#0B0B61'><center>AUSTRIA</center></span></td>
 </tr>
 <tr bgcolor='#FEFE8C'>
-<td rowspan='1'><span style='color:#ff0000'>28</span></td><td><span style='color:#ff0000'>CIUDAD</span></td>
+<td rowspan='1'><span style='color:#ff0000'></span></td><td><span style='color:#ff0000'>CIUDAD</span></td>
 <td><span style='color:#ff0000'>BERLIN</span></td>
 <td><span style='color:#ff0000'>PARIS</span></td>
 <td><span style='color:#ff0000'>VIENNA</span></td>
