@@ -26,6 +26,8 @@
 <td><span style='color:#ff0000'>PARIS</span></td>
 <td><span style='color:#ff0000'>VIENNA</span></td>
 </tr>
+</head>
+
  
 ## Task list
 Check-lists available
