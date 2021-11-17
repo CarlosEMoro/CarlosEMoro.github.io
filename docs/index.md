@@ -10,6 +10,25 @@
   1. github pages
   2. editing 
   3. extension octotree
+## Task list
+Check-lists available
+- [ ] Complete RM pilots tracking
+- [X] Open CHG and Confluence page
+- [ ] User release note creation
+## Comments
+It is possible to include Code blocks as follows:
+```groovy
+/* Stage shown bellow only for Release Management Tool integration at pipeline */
+    publish_release_management: [
+        environments: [
+            pre:[environment: 'PRE'],
+            pro:[environment: 'PRO']],
+        instances: ['GLOBAL']
+    ]
+```
+## Useful links
+See [tutorial video](https://www.youtube.com/watch?v=VBKQIiTl8Bc&t=1s)
+
 ## Pending
 <head>
 <TABLE border-collapse='collapse' bordercolor='blue' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
@@ -29,21 +48,4 @@
 </table>
 
  
-## Task list
-Check-lists available
-- [ ] Complete RM pilots tracking
-- [X] Open CHG and Confluence page
-- [ ] User release note creation
-## Comments
-It is possible to include Code blocks as follows:
-```groovy
-/* Stage shown bellow only for Release Management Tool integration at pipeline */
-    publish_release_management: [
-        environments: [
-            pre:[environment: 'PRE'],
-            pro:[environment: 'PRO']],
-        instances: ['GLOBAL']
-    ]
-```
-## Useful links
-See [tutorial video](https://www.youtube.com/watch?v=VBKQIiTl8Bc&t=1s)
+
