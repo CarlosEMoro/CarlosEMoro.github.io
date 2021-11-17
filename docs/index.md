@@ -11,8 +11,11 @@
   2. editing 
   3. extension octotree
 ## Pending
-<TABLE align='center' border-collapse='collapse' bordercolor='black' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CONCEN_WRAPUP_SCH_V12R00F02</b></p></TD></TR></TABLE><title>INFORME DE DEPENDENCIAS</title>
+<head>
+<TABLE align='center' border-collapse='collapse' bordercolor='black' cellpadding='2' cellspacing='0' BORDER='1px solid #000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE><title>CIUDADES Y PAISES</title>
+<\head>
 <tr bgcolor='#CC0000'>
+<enter><table border='1'>
 <td colspan='2'><span style='color:#FFFFFF'><center>PAIS</center></span></td>
 <td><span style='color:#FFFFFF'><center>ALEMANIA</center></span></td>
 <td><span style='color:#FFFFFF'><center>FRANCIA</center></span></td>
