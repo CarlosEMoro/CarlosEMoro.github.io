@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Index
+* [Content](#Content)
+  * [Work on](#Work-on)
+  * [Pending](#Pending)
+  * [Task list](#Task-list)
+  * [comments](#comments)
+  * [useful links](#useful-links)
 
-You can use the [editor on GitHub](https://github.com/CarlosEMoro/CarlosEMoro.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Content
+## Work on
+#1
+## Pending
+Tables can be included but with a non-frendly way of design 
+|issue|description|
+|--|--|
+|CCCALMMC-9999|NextGen|
+|CCCALMMC-8703|Release 1.18|
+## Task list
+Check-lists available
+- [ ] Complete RM pilots tracking
+- [X] Open CHG and Confluence page
+- [ ] User release note creation
+## Comments
+It is possible to include Code blocks as follows:
+```groovy
+/* Stage shown bellow only for Release Management Tool integration at pipeline */
+    publish_release_management: [
+        environments: [
+            pre:[environment: 'PRE'],
+            pro:[environment: 'PRO']],
+        instances: ['GLOBAL']
+    ]
 ```
+## Useful links
+See [Product Office](https://github.com/santander-group/product-office)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+See also [Universe](https://www.youtube.com/watch?v=t7owQr243JY&t=4494s)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlosEMoro/CarlosEMoro.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[^1]: References
+[^2]: Articles 
