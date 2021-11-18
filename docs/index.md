@@ -1,15 +1,15 @@
-# INDEX
 * [Content](#Content)
   * [Work on](#Work-on)
-  * [Pending](#Pending)
+  * [Task list](#task-list)
   * [comments](#comments)
   * [useful links](#useful-links)
+  * [Pending](#Pending)
 
 # Content
 ## Work on
-  1. github pages
-  2. editing 
-  3. extension octotree
+    1. github pages
+    2. editing
+    3. extension octotree
 ## Task list
 Check-lists available
 - [ ] Complete RM pilots tracking
@@ -31,9 +31,9 @@ See [tutorial video](https://www.youtube.com/watch?v=VBKQIiTl8Bc&t=1s)
 
 ## Pending
 <head>
-<TABLE border-collapse='collapse' bordercolor='blue' cellpadding='2' cellspacing='0' BORDER='1px solid #ff0000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Arial'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
+<TABLE border-collapse='collapse' bordercolor='blue' cellpadding='2' cellspacing='0' BORDER='1px solid #ff0000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Calibri'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
 <center><table border='1'>
-<tr>
+<tr bgcolor='#F12345'>
 <td colspan='2'><span style='color:#0B0B61'><center>PAIS</center></span></td>
 <td><span style='color:#0B0B61'><center>ALEMANIA</center></span></td>
 <td><span style='color:#0B0B61'><center>FRANCIA</center></span></td>
