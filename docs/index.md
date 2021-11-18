@@ -6,7 +6,7 @@
   * [Task list](#task-list)
   * [comments](#comments)
   * [useful links](#useful-links)
-  * [Pending](#Pending)
+  * [Table](#Table)
 
 # Content
 ## Work on
@@ -36,7 +36,7 @@ Check-lists available
 ## Useful links
 See [tutorial video](https://www.youtube.com/watch?v=VBKQIiTl8Bc&t=1s)
 
-## Pending
+## Table
 <head>
 <TABLE border-collapse='collapse' bordercolor='blue' cellpadding='2' cellspacing='0' BORDER='1px solid #ff0000'><TR><TD align='center'><p style='font-size: medium; font-weight: bold; color: #0B0B61; font-family:Calibri'><b>CIUDADES Y PAISES</b></p></TD></TR></TABLE>
 <center><table border='1'>
