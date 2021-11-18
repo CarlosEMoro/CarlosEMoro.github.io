@@ -1,3 +1,4 @@
+#INDEX
 * [Content](#Content)
   * [Work on](#Work-on)
   * [Task list](#task-list)
@@ -19,6 +20,7 @@ Check-lists available
 
 ## Comments
 It is possible to include Code blocks as follows:
+
 ```groovy
 /* Stage shown bellow only for Release Management Tool integration at pipeline */
     publish_release_management: [
@@ -28,6 +30,7 @@ It is possible to include Code blocks as follows:
         instances: ['GLOBAL']
     ]
 ```
+
 ## Useful links
 See [tutorial video](https://www.youtube.com/watch?v=VBKQIiTl8Bc&t=1s)
 
