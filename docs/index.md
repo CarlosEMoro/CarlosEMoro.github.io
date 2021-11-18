@@ -16,12 +16,12 @@
 
 ## Task list
 Check-lists available
-- [ ] Complete RM pilots tracking
-- [X] Open CHG and Confluence page
-- [ ] User release note creation
+ [ ] Complete RM pilots tracking
+ [X] Open CHG and Confluence page
+ [ ] User release note creation
 
 ## Comments
-It is possible to include Code blocks as follows:
+  It is possible to include Code blocks as follows:
 
 ```groovy
 /* Stage shown bellow only for Release Management Tool integration at pipeline */
