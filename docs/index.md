@@ -8,9 +8,9 @@
 
 # Content
 ## Work on
-    1. github pages
-    2. editing using ATOM
-    3. extension octotree
+  1. github pages
+  2. editing using ATOM
+  3. extension octotree
 
 ## Task list
 Check-lists available
