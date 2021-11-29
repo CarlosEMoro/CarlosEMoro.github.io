@@ -8,7 +8,7 @@
 
 # Content
 ## Work on
-#1
+
 ## Pending
 Tables can be included but with a non-frendly way of design 
 |issue|description|
